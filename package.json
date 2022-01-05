@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/alighasemzadeh/easy-keplr-connect/issues"
   },
-  "homepage": "https://github.com/alighasemzadeh/easy-keplr-connect#readme"
+  "homepage": "https://github.com/alighasemzadeh/easy-keplr-connect#readme",
+  "dependencies": {
+    "vue": "^3.2.26"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.26"
+  }
 }
