@@ -1,1 +1,1 @@
-# Easy way to use Keplr Wallet
+# Use Laravel Mix for Keplr Wallet
