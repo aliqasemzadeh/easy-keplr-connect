@@ -18,6 +18,17 @@
   },
   "homepage": "https://github.com/alighasemzadeh/easy-keplr-connect#readme",
   "devDependencies": {
-    "laravel-mix": "^6.0.42"
+    "laravel-mix": "^6.0.42",
+    "path": "^0.12.7",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.5",
+    "sass": "^1.49.7",
+    "sass-loader": "^12.6.0"
+  },
+  "dependencies": {
+    "@cosmjs/launchpad": "^0.27.1",
+    "@cosmjs/proto-signing": "^0.27.1",
+    "@cosmjs/stargate": "^0.27.1"
+
   }
 }
